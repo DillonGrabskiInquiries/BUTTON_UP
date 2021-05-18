@@ -1,0 +1,25 @@
+.longRoundedSearchTealWhiteBack {
+    background-color: white;
+    border-color: #40e0d0;
+    color: turquoise;
+    font-size: 30px;
+    border-radius: 50px;
+    padding: 10px 50px;
+}
+
+.plusRoundedSmallWhiteTeal {
+    background-color: turquoise;
+    color: white;
+    font-size: 30px;
+    border-radius: 48%;
+    border: none;
+}
+
+.blackBorderRectangleBlueBackWhiteFont {
+    background-color: rgb(55, 115, 226);
+    color: white;
+    padding: 5px 50px;
+    border-color: black;
+    box-shadow: 10px 5px 5px black;
+}
+
